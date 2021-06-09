@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![SmileyJames' GitHub stats](https://github-readme-stats.vercel.app/api?username=SmileyJames&count_private=true)
+
+
 <!--
 **SmileyJames/SmileyJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
