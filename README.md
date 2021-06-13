@@ -4,8 +4,7 @@ I'm a software engineer focused on full-stack web development: from the importan
 
 Currently working primarily on a React ⚛️ JavaScript codebase. Also, experienced in Django Python 🐍.
 
+😃💬 otoolej012@gmail.com
+
 ![James O'Toole's GitHub Statistics](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/overview.svg)
 ![Languages Used (By File Size)](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/languages.svg)
-
-
-😃💬 otoolej012@gmail.com
