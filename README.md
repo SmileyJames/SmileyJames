@@ -7,4 +7,3 @@ Currently working primarily on a React ⚛️ JavaScript codebase. Also, experie
 😃💬 otoolej012@gmail.com
 
 ![James O'Toole's GitHub Statistics](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/overview.svg)
-![Languages Used (By File Size)](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/languages.svg)
