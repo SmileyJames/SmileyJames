@@ -16,4 +16,6 @@ Overall, my career has been focused on the development and maintenance of softwa
 
 😃💬 jamesotoole@cbmdigital.co.uk
 
+You can also speak with Cassandra, CBM Digital's chabot assistant: https://www.cbmdigital.co.uk/contact
+
 ![James O'Toole's GitHub Statistics](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/overview.svg)
