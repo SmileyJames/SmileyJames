@@ -14,8 +14,6 @@ Finally, I'm a huge advocate for Extreme Programming (XP) practices. I believe i
 
 Overall, my career has been focused on the development and maintenance of software products and applications.  With a passion for creating user-friendly and reliable applications, I'm sure I can help any team create success.
 
-😃💬 jamesotoole@cbmdigital.co.uk
-
-You can also speak with Cassandra, CBM Digital's chabot assistant: https://www.cbmdigital.co.uk/contact
+😃💬 contact@cbmdigital.co.uk
 
 ![James O'Toole's GitHub Statistics](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/overview.svg)
