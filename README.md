@@ -14,6 +14,8 @@ Finally, I'm a huge advocate for Extreme Programming (XP) practices. I believe i
 
 Overall, my career has been focused on the development and maintenance of software products and applications.  With a passion for creating user-friendly and reliable applications, I'm sure I can help any team create success.
 
+[Book a free 30 minute consultation](https://app.apollo.io/#/meet/james_o'toole_75a/30-min) to discuss your needs.
+
 😃💬 contact@cbmdigital.co.uk
 
 ![James O'Toole's GitHub Statistics](https://raw.githubusercontent.com/SmileyJames/github-stats/master/generated/overview.svg)
